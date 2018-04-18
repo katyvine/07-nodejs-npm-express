@@ -11,6 +11,7 @@
   "author": "katy and steph",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "npm": "^5.8.0"
   }
 }
